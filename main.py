@@ -1,11 +1,11 @@
 basic.show_string("Hello!")
-music.play_melody("E B C5 A B G A F ", 120)
+music.play_melody("C C C5 C5 B G A B ", 120)
 basic.show_leds("""
-    . . . . .
-    . . . . #
-    . . . # .
-    # . # . .
-    . # . . .
+    # # # # #
+    # . # . #
+    # # # # #
+    # . . . #
+    # # # # #
     """)
 
 def on_forever():

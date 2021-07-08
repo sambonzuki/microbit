@@ -1,6 +1,5 @@
 basic.showString("Hello!")
-music.setVolume(255)
-music.playMelody("E B C5 A B G A F ", 120)
+music.playMelody("C C C5 C5 B G A B ", 120)
 basic.showLeds(`
     # # # # #
     # . # . #
